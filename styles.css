@@ -1,0 +1,54 @@
+.container{
+
+    display:flex;
+    flex-direction: column;
+    
+
+}
+
+.pageinfo{
+
+    justify-content: center;
+    align-self: center;
+}
+
+h1{
+
+    font-family: 'Courier New', Courier, monospace;
+    display: flex;
+    justify-content: center;
+    align-self: center;
+}
+
+li a{
+
+    text-decoration: none;
+    font-size: 1.2rem;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    color:black;
+
+}
+
+ul {
+
+    list-style: none;
+    margin:0px;
+    padding:0px;
+}
+
+img{
+
+    width:500px;
+}
+
+.chef {
+    
+    border-style: double;
+    border-width: 15px;
+    border-radius: 8px;
+    margin-bottom: 25px;
+
+}
+
+

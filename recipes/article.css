@@ -1,0 +1,89 @@
+html{
+
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+.container{
+
+    display:flex;
+    flex-direction: column;
+    
+
+}
+
+.pageinfo{
+
+    justify-content: center;
+    align-self: center;
+}
+
+h1{
+
+    display: flex;
+    justify-content: center;
+    align-self: center;
+}
+
+li a{
+
+    text-decoration: none;
+    font-size: 1.2rem;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    color:black;
+
+}
+
+ul {
+
+    list-style: none;
+    margin:0px;
+    padding:0px;
+}
+
+.cake{
+
+    width:500px;
+    border-style: double;
+    border-width: 15px;
+    border-radius: 8px;
+    margin-bottom: 25px;
+
+}
+
+p,h2,ul,ol{
+
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+    justify-content: center;
+    width: 500px;
+    color: rgb(0, 0, 0);
+}
+
+p,ul,ol {
+
+    font-size: 1.2rem;
+
+}
+
+.peach{
+
+    width:500px;
+    border-style: double;
+    border-width: 15px;
+    border-radius: 8px;
+    margin-bottom: 25px;
+
+}
+
+.pasta{
+
+    width:500px;
+    border-style: double;
+    border-width: 15px;
+    border-radius: 8px;
+    margin-bottom: 25px;
+
+}
